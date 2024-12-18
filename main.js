@@ -1,0 +1,1 @@
+window.alert("Plz open Desktop Mode if you're using a mobile")
